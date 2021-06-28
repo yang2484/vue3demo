@@ -8,10 +8,11 @@
   "dependencies": {
     "@vueuse/core": "^4.11.1",
     "typescript": "^4.3.2",
-    "vue": "^3.0.4"
+    "vue": "^3.0.4",
+    "vue3-markdown-it": "^1.0.9"
   },
   "devDependencies": {
-    "vite": "^1.0.0-rc.13",
-    "@vue/compiler-sfc": "^3.0.4"
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^1.0.0-rc.13"
   }
 }
